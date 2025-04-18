@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f530dae-6589-4c0c-9c1d-480421a8ceca)# Гра лабіринт **Surv-In-Labirint**  ![icons8-ржавчина-48](https://github.com/user-attachments/assets/2e53243c-eeb7-46be-ab17-6d563905a961)
+# Гра лабіринт **Surv-In-Labirint**  ![icons8-ржавчина-48](https://github.com/user-attachments/assets/2e53243c-eeb7-46be-ab17-6d563905a961)
 
 ## Натхнення автора на створення цьої гри та її тематика :
 
