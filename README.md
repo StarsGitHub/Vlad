@@ -13,7 +13,6 @@
 
 Плоха кінцівка, вас з'їли ведмідь чи кабан :
 
-
 ![losecopy](https://github.com/user-attachments/assets/da02bc05-9726-424c-a67a-454de969d3cd)
 
 
